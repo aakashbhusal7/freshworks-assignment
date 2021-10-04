@@ -15,6 +15,7 @@ Add the api key to ~/.apikey.properties file
 * Api calls can be inspected through chucker(for debug builds)
 
 # Structure
+* buildsrc -> separate module for dependencies
 * data/ -> data layer where we have repositories and interfaces as well as relevant data classes for network calls and entities for database
           separated into local and remote
 * ext/ -> Extension functions, Helper functions for network calls
