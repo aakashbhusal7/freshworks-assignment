@@ -2,8 +2,8 @@
 
 # Development
 * Written in 100% Kotlin
-* MVVM pattern
-* Coroutines and retrofit for netowrking operations
+* MVVM architecture
+* Coroutines and retrofit for networking operations
 * Room library for database
 * Glide for image processing and display
 * Dagger Hilt for dependency injection
