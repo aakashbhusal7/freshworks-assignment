@@ -1,4 +1,3 @@
-## freshworks-assignment
 
 # Development
 * Written in 100% Kotlin
